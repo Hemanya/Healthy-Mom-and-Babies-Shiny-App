@@ -1,0 +1,90 @@
+"","DEATHS_BY_LEADING_CAUSE","CNTY","UNDERLYING_COD","Providers.Count","BIRTHS","MOTHERS_STRESS","MOTHERS_ER","MOTHERS_OBESE","INPATIENT_DELIVERY","HOSPITAL","CHILD_DEATH_CNTY_POP"
+"1",5,"ADAMS","Sudden infant death syndrome",5,212,34,45,25,1,1,34880.3333333333
+"2",30,"ALLEN","Sudden infant death syndrome",182,3227,627,955,402,1,1,365177.641221374
+"3",7,"BARTHOLOMEW","Sudden infant death syndrome",13,566,123,153,57,1,1,79710.5609756098
+"4",1,"BENTON","Accidental suffocation and strangulation in bed",NA,76,NA,NA,NA,0,0,8731
+"5",1,"BLACKFORD","Car occupant injured in collision with railway train or railway vehicle, passenger injured in traffic accident",NA,89,32,32,NA,0,1,12498.2
+"6",2,"BOONE","Accidental suffocation and strangulation in bed",8,250,48,59,NA,1,1,62303.9333333333
+"7",1,"BROWN","Accidental suffocation and strangulation in bed",NA,68,NA,NA,NA,0,0,14966.4
+"8",2,"CARROLL","Accidental suffocation and strangulation in bed",NA,108,23,26,NA,0,0,19984.8
+"9",3,"CASS","Bacterial sepsis of newborn, unspecified",6,363,106,101,39,1,1,38266.2592592593
+"10",11,"CLARK","Sudden infant death syndrome",16,862,157,206,79,1,1,113659
+"11",4,"CLAY","Accidental suffocation and strangulation in bed",1,204,51,91,24,0,1,26580.3846153846
+"12",2,"CLINTON","Assault (homicide) by unspecified means",4,306,47,50,24,0,1,32781.3636363636
+"13",1,"CRAWFORD","Pulmonary edema",NA,77,NA,NA,NA,0,0,10659.5
+"14",3,"DAVIESS","Accidental suffocation and strangulation in bed",4,248,51,55,21,1,1,32491.2173913043
+"15",1,"DEARBORN","Congenital malformation of brain, unspecified",7,255,69,68,25,1,1,49887.75
+"16",1,"DECATUR","Accidental suffocation and strangulation in bed",10,197,36,50,22,1,1,26284.3333333333
+"17",6,"DEKALB","Sudden infant death syndrome",22,300,50,70,27,1,1,42502.2222222222
+"18",21,"DELAWARE","Sudden infant death syndrome",33,826,239,218,170,1,1,116472.390243902
+"19",3,"DUBOIS","Sudden infant death syndrome",6,255,49,51,24,1,1,42287.875
+"20",25,"ELKHART","Sudden infant death syndrome",70,2017,393,564,305,1,1,201336.776699029
+"21",6,"FAYETTE","Sudden infant death syndrome",2,206,53,60,38,0,1,23599.5384615385
+"22",5,"FLOYD","",8,470,91,109,45,1,1,75705.3333333333
+"23",1,"FOUNTAIN","Anencephaly",NA,97,24,33,NA,0,0,16704.1666666667
+"24",4,"FULTON","Sudden infant death syndrome",8,119,27,23,NA,1,1,20397.4666666667
+"25",2,"GIBSON","Sudden infant death syndrome",2,192,60,89,33,0,1,33665.5333333333
+"26",9,"GRANT","Sudden infant death syndrome",4,498,134,169,50,1,1,68407
+"27",2,"GREENE","Congenital malformation of the heart, unspecified",4,227,69,51,NA,1,1,32715.8333333333
+"28",8,"HAMILTON","Sudden infant death syndrome",61,947,151,121,100,1,1,299627.068493151
+"29",2,"HANCOCK","Edwards' syndrome, unspecified",17,314,73,65,46,1,1,72238.625
+"30",3,"HARRISON","",1,245,73,42,47,1,1,39467.4444444444
+"31",5,"HENDRICKS","Hypoxic ischemic encephalopathy of newborn",38,667,127,156,57,1,1,156097.127659574
+"32",2,"HENRY","Sudden infant death syndrome",9,313,77,77,39,1,1,49002.8
+"33",7,"HOWARD","Sudden infant death syndrome",13,676,161,136,93,1,1,82680.0967741935
+"34",7,"HUNTINGTON","Sudden infant death syndrome",11,264,67,90,33,1,1,36777.1666666667
+"35",2,"JACKSON","Accidental suffocation and strangulation in bed",7,391,75,97,78,1,1,43767.55
+"36",5,"JASPER","Unspecified threat to breathing",NA,221,57,68,21,0,1,33447.1875
+"37",2,"JAY","Other specified congenital malformation syndromes, not elsewhere classified",4,152,40,44,23,1,1,21200.5789473684
+"38",1,"JEFFERSON","",4,246,62,60,40,1,1,32406
+"39",5,"JENNINGS","Sudden infant death syndrome",NA,209,51,56,36,0,1,28007.1818181818
+"40",4,"JOHNSON","Assault (homicide) by unspecified means",23,931,179,210,135,1,1,146417.568181818
+"41",2,"KNOX","Accidental suffocation and strangulation in bed",12,291,81,61,43,1,1,37964.9230769231
+"42",4,"KOSCIUSKO","Hypoplastic left heart syndrome",14,554,114,143,78,1,1,78305.8048780488
+"43",2,"LAGRANGE","Edwards' syndrome, unspecified",13,170,40,41,NA,1,1,38091.32
+"44",22,"LAKE","",108,4091,757,861,392,1,1,490403.709219858
+"45",6,"LAPORTE","Accidental suffocation and strangulation in bed",22,946,221,314,114,1,1,110937.169811321
+"46",4,"LAWRENCE","Sudden infant death syndrome",12,337,102,81,47,1,1,45769.6666666667
+"47",14,"MADISON","Sudden infant death syndrome",22,993,307,321,199,1,1,130112.777777778
+"48",63,"MARION","Accidental suffocation and strangulation in bed",571,10776,2048,2641,1680,1,1,927954.986631016
+"49",3,"MARSHALL","Sudden infant death syndrome",17,357,80,83,28,1,1,46701.6666666667
+"50",1,"MARTIN","Congenital malformation of lung, unspecified",NA,75,NA,NA,NA,0,0,10255.3333333333
+"51",4,"MIAMI","Sudden infant death syndrome",5,292,79,63,45,1,1,36206.8235294118
+"52",5,"MONROE","Edwards' syndrome, unspecified",26,664,186,124,80,1,1,143211.472222222
+"53",3,"MONTGOMERY","Sudden infant death syndrome",NA,259,68,96,21,0,1,38142.6315789474
+"54",4,"MORGAN","Sudden infant death syndrome",16,436,106,113,69,1,1,69468.9047619048
+"55",1,"NEWTON","",NA,91,26,NA,NA,0,0,14038
+"56",4,"NOBLE","Sudden infant death syndrome",17,343,77,76,33,1,1,47581.2
+"57",4,"ORANGE","Accidental suffocation and strangulation in bed",8,152,48,36,24,1,1,19486.6363636364
+"58",2,"OWEN","Accidental suffocation and strangulation in bed",NA,142,42,31,NA,0,0,21010.3636363636
+"59",1,"PARKE","Accidental suffocation and strangulation in bed",NA,96,23,40,NA,0,0,17105.4
+"60",1,"PERRY","",3,127,29,39,NA,1,1,19377
+"61",2,"PIKE","Inhalation and ingestion of other objects causing obstruction of respiratory tract",1,59,NA,NA,NA,0,0,12631.25
+"62",7,"PORTER","Accidental suffocation and strangulation in bed",24,834,176,160,99,1,1,166777.896551724
+"63",1,"POSEY","",1,120,31,55,NA,0,0,25585.25
+"64",2,"PULASKI","Sudden infant death syndrome",2,88,21,NA,NA,1,1,12849.8571428571
+"65",2,"PUTNAM","Sudden infant death syndrome",NA,223,56,64,24,0,1,37567.25
+"66",2,"RANDOLPH","Extreme immaturity",11,207,50,40,31,1,1,25308.25
+"67",2,"RIPLEY","Sudden infant death syndrome",6,165,39,35,24,1,1,28676.6
+"68",2,"RUSH","Sudden infant death syndrome",NA,112,26,28,NA,0,1,17076.8
+"69",3,"SCOTT","Sudden infant death syndrome",5,192,49,61,25,0,1,23836.75
+"70",2,"SHELBY","Persistent fetal circulation",3,340,77,79,63,1,1,44370.0526315789
+"71",1,"SPENCER","Ebstein's anomaly",NA,110,30,42,NA,0,0,20823
+"72",20,"ST JOSEPH","Sudden infant death syndrome",166,NA,NA,NA,NA,NA,NA,267836.198347107
+"73",3,"STARKE","Sudden infant death syndrome",1,174,44,52,NA,0,1,23125
+"74",3,"STEUBEN","Sudden infant death syndrome",10,242,57,61,28,1,1,34290.3636363636
+"75",3,"SULLIVAN","Accidental suffocation and strangulation in bed",6,146,40,46,NA,1,1,20959.8571428571
+"76",1,"SWITZERLAND","",NA,72,NA,NA,NA,0,0,10504
+"77",12,"TIPPECANOE","Accidental suffocation and strangulation in bed",42,1313,226,360,103,1,1,183084.333333333
+"78",2,"TIPTON","Persistent fetal circulation",NA,80,NA,NA,NA,0,1,15644.4285714286
+"79",8,"VANDERBURGH","Accidental suffocation and strangulation in bed",79,1322,398,684,233,1,1,181437.449275362
+"80",1,"VERMILLION","Accidental suffocation and strangulation in bed",NA,112,25,61,NA,0,1,15639.5
+"81",8,"VIGO","Accidental suffocation and strangulation in bed",50,831,225,368,77,1,1,108047.177777778
+"82",4,"WABASH","Sudden infant death syndrome",3,206,50,55,NA,1,1,32301.5
+"83",1,"WARREN","Birth asphyxia, unspecified",NA,34,NA,NA,NA,0,1,8222.25
+"84",3,"WARRICK","Accidental suffocation and strangulation in bed",52,257,61,102,40,1,1,61767.4615384615
+"85",2,"WASHINGTON","",NA,193,41,51,26,0,1,27909.3333333333
+"86",6,"WAYNE","Sudden infant death syndrome",9,534,144,169,92,1,1,67437.3448275862
+"87",1,"WELLS","Accidental suffocation and strangulation in bed",4,179,38,43,NA,1,1,27789.375
+"88",1,"WHITE","Accidental suffocation and strangulation in bed",NA,182,32,41,23,0,1,24245.5384615385
+"89",2,"WHITLEY","Bronchopneumonia, unspecified",8,203,49,49,NA,1,1,33390.1764705882
